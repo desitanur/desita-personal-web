@@ -1,0 +1,46 @@
+{
+    "id": 2,
+    "title": "D’house",
+    "description": "Dhouse is a mobile and website-based platform to help users who have difficulty in finding a place to live and also help users create their own dream home designs through interior designers who are proven to have skills in this field.",
+    "short_description": "To help users who have difficulty in finding a place to live and also help users create their own dream home designs through interior designers",
+    "client": "Freelance",
+    "tags": ["Booking Application & House Design", "2021"],
+    "design_process": [
+        {
+            "icon": "fa-solid fa-file",
+            "label": "User Requirement Specification",
+            "items": ["Product Requirement Document (PRD)", "etc"]
+        },
+        {
+            "icon": "fa-solid fa-pencil",
+            "label": "Sketch Wireframe"
+        },
+        {
+            "icon": "fa-solid fa-paintbrush-fine",
+            "label": "High-Fidelity"
+        },
+        {
+            "icon": "fa-solid fa-arrow-progress",
+            "label": "Prototyping"
+        }
+    ],
+    "color_palette": [
+        {
+            "hex": "39A2DB",
+            "label": "Main"
+        },
+        {
+            "hex": "00CEA8",
+            "label": "Secondary"
+        },
+        {
+            "hex": "3B3850",
+            "label": "Typography"
+        },
+        {
+            "hex": "D8D7DC",
+            "label": "Light font, Background"
+        }
+    ],
+    "tools": ["figma", "miro"]
+}

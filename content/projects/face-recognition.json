@@ -1,0 +1,60 @@
+{
+    "id": 3,
+    "title": "Face Recognition Self  Check-In System V.2",
+    "description": "PT Angkasa Pura I (Persero) requires an integrated, organized, and important system for the purposes of Face Recognition Self Check-In System. With this system, it is hoped that it will facilitate the self-check-in process at the airport and continue with verification processes in Security Check Point and Boarding Gate based on face verification.",
+    "short_description": "Face recognition is used at the airport for users to self check-in via the Kiosk-K located at the airport.",
+    "client": "Angkasa Pura 1",
+    "tags": ["Kios K", "Vertilogic", "2023"],
+    "goals": {
+        "description": "A program that focuses on making the check-in process more efficient based on facial recognition technology to minimize human staff<br><br>Face Recognition Self Check-In System PT Angkasa Pura I (Persero) has purposes as follows:",
+        "items": [
+            "Integrated with Garuda Indonesia system for automated check-in using API integration method (API provided by Garuda)",
+            "Integrated with e-KTP Database by using Sam Card registered at DUKCAPIL",
+            "Integrated with printer to print Boarding Pass",
+            "Integrated with email server as the platform to send e-Boarding Pass",
+            "etc"
+        ]
+    },
+    "design_process": [
+        {
+            "icon": "fa-solid fa-file",
+            "label": "User Requirement Specification",
+            "items": ["Product Requirement Document (PRD)", "etc"]
+        },
+        {
+            "icon": "fa-solid fa-pencil",
+            "label": "Sketch Wireframe"
+        },
+        {
+            "icon": "fa-solid fa-paintbrush-fine",
+            "label": "High-Fidelity"
+        },
+        {
+            "icon": "fa-solid fa-arrow-progress",
+            "label": "Prototyping"
+        }
+    ],
+    "color_palette": [
+        {
+            "hex": "224F93",
+            "label": "Main, Typography"
+        },
+        {
+            "hex": "9CDBF1",
+            "label": "Accent Blue"
+        },
+        {
+            "hex": "C4DA56",
+            "label": "Active State"
+        },
+        {
+            "hex": "212529",
+            "label": "Typography"
+        },
+        {
+            "hex": "D4DEEB",
+            "label": "Highlight"
+        }
+    ],
+    "tools": ["figma", "xd", "miro", "ps", "trello"]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 1,
+    "title": "Re-Designed Djuragan Kamar",
+    "description": "Djuragan Kamar or commonly called Djurkam is a company engaged in application-based hospitality management.",
+    "short_description": "Djuragan Kamar or commonly called Djurkam is a company engaged in application-based hospitality management.",
+    "client": "Freelance",
+    "tags": ["Booking Mobile App", "Freelance", "2021"],
+    "goals": {
+        "description": "Redesigned the Djuragan Kamar application to make it easier to use, user friendly, and more attractive to use."
+    },
+    "design_process": [
+        {
+            "icon": "fa-solid fa-file",
+            "label": "User Requirement Specification",
+            "items": ["Product Requirement Document (PRD)", "etc"]
+        },
+        {
+            "icon": "fa-solid fa-pencil",
+            "label": "Sketch Wireframe"
+        },
+        {
+            "icon": "fa-solid fa-paintbrush-fine",
+            "label": "High-Fidelity"
+        },
+        {
+            "icon": "fa-solid fa-arrow-progress",
+            "label": "Prototyping"
+        }
+    ],
+    "color_palette": [
+        {
+            "hex": "F8BB07",
+            "label": "Main"
+        },
+        {
+            "hex": "48A24B",
+            "label": "Secondary"
+        },
+        {
+            "hex": "000000",
+            "label": "Typography"
+        },
+        {
+            "hex": "FFFFFF",
+            "label": "Background, Light state"
+        }
+    ],
+    "tools": ["figma", "miro"]
+}
