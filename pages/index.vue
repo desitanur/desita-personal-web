@@ -1,6 +1,15 @@
 <script setup lang="ts">
 import type { ProjectParsedContent } from '~/types';
 
+useSeoMeta({
+    title: 'Desita Rosyidiana - UIUX Designer',
+    ogTitle: 'Desita Rosyidiana - UIUX Designer',
+    description:
+        'I am Desita Nur Rosyidiana, people call me Desita. I have graduated from Telkom University Indonesia with a bachelors degree in Information Systems on 2021. I am currently working as UIUX Designer and interested with all about UIUX design world.',
+    ogDescription:
+        'I am Desita Nur Rosyidiana, people call me Desita. I have graduated from Telkom University Indonesia with a bachelors degree in Information Systems on 2021. I am currently working as UIUX Designer and interested with all about UIUX design world.',
+});
+
 const route = useRoute();
 
 const projects = await queryContent<ProjectParsedContent>('projects')

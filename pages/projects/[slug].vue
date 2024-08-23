@@ -27,6 +27,13 @@ const closeModal = () => {
 const project = await queryContent<ProjectParsedContent>('projects')
     .where({ _path: route.path })
     .findOne();
+
+useSeoMeta({
+    title: project.title || 'Desita Rosyidiana - UIUX Designer',
+    ogTitle: project.title || 'Desita Rosyidiana - UIUX Designer',
+    description: project.short_description || '',
+    ogDescription: project.short_description || '',
+});
 </script>
 
 <template>
