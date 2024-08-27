@@ -1,0 +1,49 @@
+{
+    "id": 10,
+    "title": "E-VOA Kios-k",
+    "description": "E-VOA is an alternative to visas issued electronically via e-VISA Application, visa on arrival at the port of entry, and visa at Indonesian Embassy/Consulate.",
+    "short_description": "The application will be implemented at the airport Kiosk-K so that users can extend their visas independently.",
+    "client": "Kemenkumham",
+    "tags": ["Kios K", "Vertilogic", "2023"],
+    "goals": {
+        "description": "Revamp e-Voa design (from website https://molina.imigrasi.go.id/) so that it can responsive in kiosk which can be placed at the airport."
+    },
+    "design_process": [
+        {
+            "icon": "fa-solid fa-file",
+            "label": "User Requirement Specification",
+            "items": ["Product Requirement Document (PRD)"]
+        },
+        {
+            "icon": "fa-solid fa-pencil",
+            "label": "Sketch Wireframe"
+        },
+        {
+            "icon": "fa-solid fa-paintbrush-fine",
+            "label": "High-Fidelity"
+        },
+        {
+            "icon": "fa-solid fa-arrow-progress",
+            "label": "Prototyping"
+        }
+    ],
+    "color_palette": [
+        {
+            "hex": "10375B",
+            "label": "Primary, Typography"
+        },
+        {
+            "hex": "212529",
+            "label": "Typography"
+        },
+        {
+            "hex": "778496",
+            "label": "Light Font"
+        },
+        {
+            "hex": "F7F7F7",
+            "label": "Highlight"
+        }
+    ],
+    "tools": ["figma"]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 9,
+    "title": "Healthcare Mobile App",
+    "description": "A communication platform application that facilitates interaction between doctors and users makes it easy for the public to see their doctor at any time, as a solution to access health in a fast, accurate, safe and reliable way.",
+    "short_description": "Mobile application that can be used by users to schedule doctor consultations and consult with doctors via video call.",
+    "client": "Semesta Insight",
+    "tags": ["Health and Lifestyle", "Semesta Insight", "2023"],
+    "goals": {
+        "description": "Designing applications that provide online consultations, presenting a list of doctors and their descriptions, arranging appointment schedules to make a summary of health history."
+    },
+    "design_process": [
+        {
+            "icon": "fa-solid fa-file",
+            "label": "User Requirement Specification",
+            "items": ["Brainstorming", "Persona", "Product Requirement Document (PRD)", "User Flow"]
+        },
+        {
+            "icon": "fa-solid fa-pencil",
+            "label": "Sketch Wireframe"
+        },
+        {
+            "icon": "fa-solid fa-paintbrush-fine",
+            "label": "High-Fidelity"
+        },
+        {
+            "icon": "fa-solid fa-arrow-progress",
+            "label": "Prototyping"
+        }
+    ],
+    "color_palette": [
+        {
+            "hex": "0A78C6",
+            "label": "Primary"
+        },
+        {
+            "hex": "F6981C",
+            "label": "Secondary"
+        },
+        {
+            "hex": "273140",
+            "label": "Typography"
+        },
+        {
+            "hex": "F7F8F8",
+            "label": "Highlight"
+        }
+    ],
+    "tools": ["figma", "miro", "trello"]
+}

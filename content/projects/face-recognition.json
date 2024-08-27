@@ -1,5 +1,5 @@
 {
-    "id": 3,
+    "id": 14,
     "title": "Face Recognition Self  Check-In System V.2",
     "description": "PT Angkasa Pura I (Persero) requires an integrated, organized, and important system for the purposes of Face Recognition Self Check-In System. With this system, it is hoped that it will facilitate the self-check-in process at the airport and continue with verification processes in Security Check Point and Boarding Gate based on face verification.",
     "short_description": "Face recognition is used at the airport for users to self check-in via the Kiosk-K located at the airport.",
@@ -56,5 +56,5 @@
             "label": "Highlight"
         }
     ],
-    "tools": ["figma", "xd", "miro", "ps", "trello"]
+    "tools": ["figma"]
 }

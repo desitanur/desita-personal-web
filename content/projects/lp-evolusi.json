@@ -1,0 +1,45 @@
+{
+    "id": 17,
+    "title": "Landing Page Evolusi.ai",
+    "description": "-",
+    "short_description": "Company profile website of Evolusi.AI which explains what services are provided.",
+    "client": "amalan",
+    "tags": ["Website", "CekAja", "2024"],
+    "goals": {
+        "description": "Collaborating with UIUX from Praxis, create a landing page for Evolusi.ai company profile that explains the products and services it has, as well as explaining its history and inventors."
+    },
+    "design_process": [
+        {
+            "icon": "fa-solid fa-file",
+            "label": "User Requirement Specification",
+            "items": ["Requirement Document"]
+        },
+        {
+            "icon": "fa-solid fa-pencil",
+            "label": "Wireframe"
+        },
+        {
+            "icon": "fa-solid fa-paintbrush-fine",
+            "label": "High-Fidelity"
+        }
+    ],
+    "color_palette": [
+        {
+            "hex": "F2CF0F",
+            "label": "Brand amalam - primary"
+        },
+        {
+            "hex": "0F47F2",
+            "label": "Secondary"
+        },
+        {
+            "hex": "0D0D0D",
+            "label": "Neutral Color Dark"
+        },
+        {
+            "hex": "FFFFFF",
+            "label": "Neutral Color Light"
+        }
+    ],
+    "tools": ["figma"]
+}

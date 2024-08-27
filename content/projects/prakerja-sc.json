@@ -1,0 +1,59 @@
+{
+    "id": 18,
+    "title": "[Study Case] Redesign Prakerja",
+    "description": "The Prakerja Card Program is a training scholarship program to improve work and entrepreneurship competencies. This program is intended not only for job seekers, but also for those who are already working or laborers who want to get improved skills or competencies, as well as workers/laborers who have been laid off, including micro and small business actors.",
+    "short_description": "Redesign the Prakerja web app to be more minimalist and professionals",
+    "client": "Prakerja",
+    "tags": ["Mobile App", "2024"],
+    "goals": {
+        "description": "Re-design the registration process based on what think is better than the current one, simplify the registration process and make prioritization based on the step that is mandatory and optional. Here's some of the rules:",
+        "items": [
+            "Responsive design - the design should have 2 kinds of versions; mobile & desktop for each",
+            "Use font Poppins as the heading and display",
+            "Use font Open Sans as the body & paragraph"
+        ]
+    },
+    "design_process": [
+        {
+            "icon": "fa-solid fa-file",
+            "label": "Understand Context Of Use",
+            "items": ["New User Flow", "User Story", "User Story Map"]
+        },
+        {
+            "icon": "fa-solid fa-pencil",
+            "label": "Sketch Wireframe"
+        },
+        {
+            "icon": "fa-solid fa-paintbrush-fine",
+            "label": "High-Fidelity",
+            "items": ["Design Documentation"]
+        },
+        {
+            "icon": "fa-solid fa-arrow-progress",
+            "label": "Prototyping"
+        }
+    ],
+    "color_palette": [
+        {
+            "hex": "2A72C7",
+            "label": "Primary"
+        },
+        {
+            "hex": "F05E00",
+            "label": "Secondary"
+        },
+        {
+            "hex": "26344F",
+            "label": "Neutral Body Font"
+        },
+        {
+            "hex": "9299A7",
+            "label": "Neutral Light Font"
+        },
+        {
+            "hex": "F9F9FA",
+            "label": "Highlight"
+        }
+    ],
+    "tools": ["figma"]
+}

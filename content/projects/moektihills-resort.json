@@ -1,0 +1,50 @@
+{
+    "id": 19,
+    "title": "Resort Booking",
+    "description": "PT Angkasa Pura I (Persero) requires an integrated, organized, and important system for the purposes of Face Recognition Self Check-In System. With this system, it is hoped that it will facilitate the self-check-in process at the airport and continue with verification processes in Security Check Point and Boarding Gate based on face verification.",
+    "short_description": "Website used by users to book resorts, for branding and company profiles",
+    "client": "Moekti Hills Resort",
+    "tags": ["Web App", "Moekti Hills Resort", "2024"],
+    "goals": {
+        "description": "Create a responsive website design for a resort booking system as well as a company profile that explains the products and services provided by the company. On the website, users can:",
+        "items": ["View products and services", "View product availability", "Make bookings"]
+    },
+    "design_process": [
+        {
+            "icon": "fa-solid fa-file",
+            "label": "User Requirement Specification",
+            "items": ["User Story", "User Flow"]
+        },
+        {
+            "icon": "fa-solid fa-pencil",
+            "label": "Sketch wireframe"
+        },
+        {
+            "icon": "fa-solid fa-paintbrush-fine",
+            "label": "High-Fidelity"
+        },
+        {
+            "icon": "fa-solid fa-arrow-progress",
+            "label": "Prototyping"
+        }
+    ],
+    "color_palette": [
+        {
+            "hex": "3C7B7F",
+            "label": "Brand Primary"
+        },
+        {
+            "hex": "262626",
+            "label": "Body Font"
+        },
+        {
+            "hex": "FAF4EE",
+            "label": "Accent Light"
+        },
+        {
+            "hex": "FBFBFB",
+            "label": "Highlight"
+        }
+    ],
+    "tools": ["figma"]
+}

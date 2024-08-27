@@ -1,0 +1,57 @@
+{
+    "id": 3,
+    "title": "Virtu (Asessment Center Indonesia)",
+    "description": "The platform used for conducting assessments at Telkom Indonesia which is managed by Assessment Center Indonesia",
+    "short_description": "The platform used for conducting assessments at Telkom Indonesia which is managed by Assessment Center Indonesia",
+    "client": "Telkom Indonesia",
+    "tags": ["Management App", "Internship Telkom Indonesia", "2022"],
+    "goals": {
+        "description": "Redesign Virtu website to manage the course of the assessment process and serve as a user dashboard to monitor the assessment process:"
+    },
+    "design_process": [
+        {
+            "icon": "fa-solid fa-file",
+            "label": "User Requirement Specification",
+            "items": ["Product Requirement Document (PRD)", "Persona", "User Flow"]
+        },
+        {
+            "icon": "fa-solid fa-pencil",
+            "label": "Sketch Wireframe"
+        },
+        {
+            "icon": "fa-solid fa-paintbrush-fine",
+            "label": "High-Fidelity"
+        },
+        {
+            "icon": "fa-solid fa-arrow-progress",
+            "label": "Prototyping"
+        },
+        {
+            "icon": "fa-solid fa-flag",
+            "label": "Usability Testing"
+        }
+    ],
+    "color_palette": [
+        {
+            "hex": "EE3137",
+            "label": "Main"
+        },
+        {
+            "hex": "FECE00",
+            "label": "Secondary"
+        },
+        {
+            "hex": "00CEA8",
+            "label": "Tertiary"
+        },
+        {
+            "hex": "3B3850",
+            "label": "Typography"
+        },
+        {
+            "hex": "FFFFFF",
+            "label": "Background, Light state"
+        }
+    ],
+    "tools": ["figma", "miro"]
+}

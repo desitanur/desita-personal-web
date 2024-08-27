@@ -1,0 +1,42 @@
+{
+    "id": 7,
+    "title": "Manager Portal",
+    "description": "The SalesCandy® is a lead management system. Manager portal is dashboard used to manage all leads and projects (create, show, update, delete) and shows display reports. ",
+    "short_description": "The dashboard used for Salescandy to manage the incoming lead and project",
+    "client": "Salescandy",
+    "tags": ["Lead and Project Managemen", "Full-time Salescandy", "2021-2022"],
+    "design_process": [
+        {
+            "icon": "fa-solid fa-file",
+            "label": "Specify User Requirementn",
+            "items": ["Product Requirement", "User Flow"]
+        },
+        {
+            "icon": "fa-solid fa-paintbrush-fine",
+            "label": "Design Solutions"
+        },
+        {
+            "icon": "fa-solid fa-arrow-progress",
+            "label": "Evaluate against Requirement"
+        }
+    ],
+    "color_palette": [
+        {
+            "hex": "AB48BD",
+            "label": "Main"
+        },
+        {
+            "hex": "551D75",
+            "label": "Secondary"
+        },
+        {
+            "hex": "000000",
+            "label": "Typography"
+        },
+        {
+            "hex": "FFFFFF",
+            "label": "Light font, Background"
+        }
+    ],
+    "tools": ["figma", "xd", "miro"]
+}

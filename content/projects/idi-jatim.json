@@ -1,0 +1,49 @@
+{
+    "id": 5,
+    "title": "E-Commerce - Health",
+    "description": "IDI Jatim is an e-commerce for the sale of all hospital equipment and doctor's needs. IDI Jatim was pioneered by members of the Indonesian Doctors Association (IDI) in the Surabaya region. IDI Jatim application based on website and mobile",
+    "short_description": "e-commerce used for buying and selling medical devices (used for health workers)",
+    "client": "IDI Jatim",
+    "tags": ["E-commerce", "Semesta Insight", "2022"],
+    "goals": {
+        "description": "Creating a digital store platform and mobile application that provides health equipment such as medicines, medical devices, and so on. The user is labor. The platform can display items for sale and their descriptions, store information, space for user reviews and discussion, shopping carts, shipping tracking, and user information."
+    },
+    "design_process": [
+        {
+            "icon": "fa-solid fa-file",
+            "label": "User Requirement Specification",
+            "items": ["Product Requirement Document (PRD)", "User Flow", "Customer Journey"]
+        },
+        {
+            "icon": "fa-solid fa-pencil",
+            "label": "Sketch Wireframe"
+        },
+        {
+            "icon": "fa-solid fa-paintbrush-fine",
+            "label": "High-Fidelity"
+        },
+        {
+            "icon": "fa-solid fa-arrow-progress",
+            "label": "Prototyping"
+        }
+    ],
+    "color_palette": [
+        {
+            "hex": "1D51D7",
+            "label": "Main Primary"
+        },
+        {
+            "hex": "BBCCF6",
+            "label": "Secondary"
+        },
+        {
+            "hex": "273140",
+            "label": "Typography"
+        },
+        {
+            "hex": "FFFFFF",
+            "label": "Light font, Background"
+        }
+    ],
+    "tools": ["figma", "miro"]
+}

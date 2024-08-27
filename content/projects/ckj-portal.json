@@ -1,0 +1,60 @@
+{
+    "id": 12,
+    "title": "CekAja Credit Score",
+    "description": "Provide an overview to users in Indonesia regarding their financial condition because the problem that is happening now is that they don't know the reason they were rejected when applying for a loan.",
+    "short_description": "Website portal used to educate users until users make transactions on cekaja.com",
+    "client": "Cekaja.com",
+    "tags": ["Portal Website ", "Full-time CekAja", "2022-2022"],
+    "goals": {
+        "description": "So with this feature we want users to be more aware of their financial condition so they can improve their financial condition so that problems will arise in the future it is resolved."
+    },
+    "design_process": [
+        {
+            "icon": "fa-solid fa-circle",
+            "label": "Method: Design Sprint"
+        },
+        {
+            "icon": "fa-solid fa-pencil",
+            "label": "Mapping",
+            "items": [
+                "Research with survey",
+                "User Persona",
+                "User Flow",
+                "Customer Journey",
+                "Requirement Document"
+            ]
+        },
+        {
+            "icon": "fa-solid fa-paintbrush-fine",
+            "label": "Sketch and Decide",
+            "items": ["Brainstorming", "Sketch", "High-Fidelity"]
+        },
+        {
+            "icon": "fa-solid fa-arrow-progress",
+            "label": "Prototype"
+        },
+        {
+            "icon": "fa-solid fa-scribble",
+            "label": "Testing"
+        }
+    ],
+    "color_palette": [
+        {
+            "hex": "003364",
+            "label": "Brand - Primary"
+        },
+        {
+            "hex": "00ACEC",
+            "label": "Brand - Secondary"
+        },
+        {
+            "hex": "FF981E",
+            "label": "Brand - Tertiary"
+        },
+        {
+            "hex": "377EF9",
+            "label": "Brand - Quaternary"
+        }
+    ],
+    "tools": ["figma", "miro", "trello"]
+}

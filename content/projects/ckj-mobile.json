@@ -1,0 +1,67 @@
+{
+    "id": 11,
+    "title": "CekAja Mobile App",
+    "description": "CekAja.com is an aggregator of financial and investment products. The company offers various credit cards, unsecured loans (KTA), insurance, loans to investments.",
+    "short_description": "Cekaja portal transforms into a mobile application with new features that are not available on its website.",
+    "client": "CekAja",
+    "tags": ["Mobile Apps", "Full-time CekAja", "2022-2023"],
+    "goals": {
+        "description": "Make a mobile application version of Cekaja.com to make it easier for users to use the Cekaja platform because with the mobile application version, the platform will be easier to reach. The Cekaja mobile application offers several features that are not available on the website version.",
+        "items": [
+            "Integrated with Garuda Indonesia system for automated check-in using API integration method (API provided by Garuda)",
+            "Integrated with e-KTP Database by using Sam Card registered at DUKCAPIL",
+            "Integrated with printer to print Boarding Pass",
+            "Integrated with email server as the platform to send e-Boarding Pass",
+            "etc"
+        ]
+    },
+    "design_process": [
+        {
+            "icon": "fa-solid fa-circle",
+            "label": "Method: Design Sprint"
+        },
+        {
+            "icon": "fa-solid fa-pencil",
+            "label": "Mapping",
+            "items": [
+                "Research with survey",
+                "User Persona",
+                "User Flow",
+                "Customer Journey",
+                "Requirement Document"
+            ]
+        },
+        {
+            "icon": "fa-solid fa-paintbrush-fine",
+            "label": "Sketch and Decide",
+            "items": ["Brainstorming", "Sketch", "High-Fidelity"]
+        },
+        {
+            "icon": "fa-solid fa-arrow-progress",
+            "label": "Prototype"
+        },
+        {
+            "icon": "fa-solid fa-scribble",
+            "label": "Testing"
+        }
+    ],
+    "color_palette": [
+        {
+            "hex": "003364",
+            "label": "Brand - Primary"
+        },
+        {
+            "hex": "00ACEC",
+            "label": "Brand - Secondary"
+        },
+        {
+            "hex": "FF981E",
+            "label": "Brand - Tertiary"
+        },
+        {
+            "hex": "377EF9",
+            "label": "Brand - Quaternary"
+        }
+    ],
+    "tools": ["figma", "miro", "trello"]
+}

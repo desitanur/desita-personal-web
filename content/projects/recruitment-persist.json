@@ -1,0 +1,45 @@
+{
+    "id": 8,
+    "title": "Recruitment System",
+    "description": "An application that provides a job portal and can be used to recruit potential candidates and manage the recruitment process.",
+    "short_description": "Mobile application for job portals and recruitment processes so that they can be clearly monitored from the user and recruiter side.",
+    "client": "PERSIST Recruitment",
+    "tags": ["Job Portal", "Vertilogic", "2023"],
+    "goals": {
+        "description": "Create a job portal that can display a list of companies that are currently recruiting new employees, create personal data (CV) and help candidates monitor and manage the course of the recruitment process to provide recruitment reports."
+    },
+    "design_process": [
+        {
+            "icon": "fa-solid fa-file",
+            "label": "User Requirement Specification",
+            "items": ["Product Requirement Document (PRD)"]
+        },
+        {
+            "icon": "fa-solid fa-paintbrush-fine",
+            "label": "High-Fidelity"
+        },
+        {
+            "icon": "fa-solid fa-arrow-progress",
+            "label": "Prototyping"
+        }
+    ],
+    "color_palette": [
+        {
+            "hex": "0C2290",
+            "label": "Main"
+        },
+        {
+            "hex": "1EC7F1",
+            "label": "Secondary"
+        },
+        {
+            "hex": "0F1A2A",
+            "label": "Typography"
+        },
+        {
+            "hex": "F7F8F8",
+            "label": "Highlight"
+        }
+    ],
+    "tools": ["figma"]
+}

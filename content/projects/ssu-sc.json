@@ -1,0 +1,42 @@
+{
+    "id": 6,
+    "title": "Single Sign-Up",
+    "description": "SalesCandy SSU is a SalesCandy Self Sign-Up that aims for the B2C market. This application adopts the backbone of its proven predecessors which is SalesCandy Enterprise. The top-notch feature of this SalesCandy SSU is the Salesperson community effect, where each salesperson can collaborate on their sales campaign with another salesperson.",
+    "short_description": "SalesCandy's Self Sign-Up that aims for the B2C market.",
+    "client": "Salescandy",
+    "tags": ["Lead and Project Management", "Full-time Salescandy", "2021-2022"],
+    "design_process": [
+        {
+            "icon": "fa-solid fa-file",
+            "label": "Specify User Requirementn",
+            "items": ["Product Requirement", "User Flow"]
+        },
+        {
+            "icon": "fa-solid fa-paintbrush-fine",
+            "label": "Design Solutions"
+        },
+        {
+            "icon": "fa-solid fa-arrow-progress",
+            "label": "Evaluate against Requirement"
+        }
+    ],
+    "color_palette": [
+        {
+            "hex": "67B3FF",
+            "label": "Main, Typography"
+        },
+        {
+            "hex": "BA53DE",
+            "label": "Secondary"
+        },
+        {
+            "hex": "273140",
+            "label": "Typography"
+        },
+        {
+            "hex": "FFFFFF",
+            "label": "Light font, Background"
+        }
+    ],
+    "tools": ["figma", "miro"]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 4,
+    "title": "Landing Page - WeCare",
+    "description": "wecare is a brand that has baby diaper products. Currently wecare wants to create a landing page to promote its products while informing its company profile to buyers.",
+    "short_description": "Company profile for WeCare products",
+    "client": "WeCare",
+    "tags": ["Kios K", "Vertilogic", "2023"],
+    "goals": {
+        "description": "Create a landing page that has a cheerful, fun, and easy-to-understand theme about the products they provide.",
+        "items": [
+            "Has a cheerful and fun vibes,",
+            "Easy to understand about the products they provide"
+        ]
+    },
+    "design_process": [
+        {
+            "icon": "fa-solid fa-file",
+            "label": "User Requirement Specification",
+            "items": ["Product Requirement Document (PRD)", "Persona"]
+        },
+        {
+            "icon": "fa-solid fa-pencil",
+            "label": "Sketch Wireframe"
+        },
+        {
+            "icon": "fa-solid fa-paintbrush-fine",
+            "label": "High-Fidelity"
+        }
+    ],
+    "color_palette": [
+        {
+            "hex": "00CEA8",
+            "label": "Primary Color"
+        },
+        {
+            "hex": "0E8AC8",
+            "label": "Secondary Color"
+        },
+        {
+            "hex": "182940",
+            "label": "Typhography"
+        },
+        {
+            "hex": "EFFAFF",
+            "label": "Highlight"
+        }
+    ],
+    "tools": ["figma"]
+}

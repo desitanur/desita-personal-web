@@ -1,0 +1,57 @@
+{
+    "id": 15,
+    "title": "Reedem OVO Cash ",
+    "description": "OVO is collaborating with TADA to create a website-based application that can be used to redeem OVO cash for products that collaborate with OVO.",
+    "short_description": "Application used to redeem rewards via registered OVO",
+    "client": "OVO x TADA",
+    "tags": ["Website App", "Vertilogic", "2024"],
+    "goals": {
+        "description": "An application that can redeem ovo cash by triggering coupon codes found on products that collaborate with OVO. When the code is valid, the user must link their ovo account to be able to redeem ovo cash. When the account is valid, the ovo cash will be directly received by the user on that account"
+    },
+    "design_process": [
+        {
+            "icon": "fa-solid fa-file",
+            "label": "User Requirement Specification",
+            "items": ["Product Requirement Document (PRD)", "User Flow"]
+        },
+        {
+            "icon": "fa-solid fa-pencil",
+            "label": "Sketch Wireframe"
+        },
+        {
+            "icon": "fa-solid fa-paintbrush-fine",
+            "label": "High-Fidelity"
+        },
+        {
+            "icon": "fa-solid fa-arrow-progress",
+            "label": "Prototyping"
+        },
+        {
+            "icon": "fa-solid fa-scribble",
+            "label": "Testing"
+        }
+    ],
+    "color_palette": [
+        {
+            "hex": "5827DB",
+            "label": "Brand OVO - Primary"
+        },
+        {
+            "hex": "00B14F",
+            "label": "Brand Grab - Primary"
+        },
+        {
+            "hex": "1B1725",
+            "label": "Body Font"
+        },
+        {
+            "hex": "363C4A",
+            "label": "Light Font"
+        },
+        {
+            "hex": "FFFFFF",
+            "label": "Background"
+        }
+    ],
+    "tools": ["figma"]
+}

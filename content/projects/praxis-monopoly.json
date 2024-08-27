@@ -1,0 +1,75 @@
+{
+    "id": 16,
+    "title": "Game - Monopoly",
+    "description": "Praxis is the proven gamification solution for financial services companies in Asia. Work with clients to better recruitment, training and lead generation as well as supporting brand positioning and growth.",
+    "short_description": "Monopoly game used to educate users about the financial processes that apply in Indonesia",
+    "client": "Praxis",
+    "tags": ["Game - Website", "Praxis", "2023-2024"],
+    "goals": {
+        "description": "Collaborating with UIUX from Praxis, the goal of the development is to create a digitalized Praxis product that replaces Praxis Connect by addressing its shortcomings and improving the sales process, ultimately providing a more engaging and personalized experience for users."
+    },
+    "design_process": [
+        {
+            "icon": "fa-solid fa-file",
+            "label": "User Requirement Specification",
+            "items": [
+                "Research",
+                "User Persona",
+                "Customer Journey",
+                "User Flow",
+                "Product Requirement Document (PRD)"
+            ]
+        },
+        {
+            "icon": "fa-solid fa-pencil",
+            "label": "Sketch Wireframe"
+        },
+        {
+            "icon": "fa-solid fa-paintbrush-fine",
+            "label": "High-Fidelity"
+        },
+        {
+            "icon": "fa-solid fa-arrow-progress",
+            "label": "Prototyping"
+        },
+        {
+            "icon": "fa-solid fa-scribble",
+            "label": "Usability Testing"
+        }
+    ],
+    "color_palette": [
+        {
+            "hex": "DA011C",
+            "label": "Brand Praxis - Primary"
+        },
+        {
+            "hex": "2B2B2B",
+            "label": "Body Font"
+        },
+        {
+            "hex": "F1F1F1",
+            "label": "Highlight"
+        },
+        {
+            "hex": "FFFFFF",
+            "label": "Background"
+        },
+        {
+            "hex": "D9AA16",
+            "label": "Accent Yellow"
+        },
+        {
+            "hex": "1699D9",
+            "label": "Accent Blue"
+        },
+        {
+            "hex": "CC0BD9",
+            "label": "Accent Purple"
+        },
+        {
+            "hex": "FF6678",
+            "label": "Accent Pink"
+        }
+    ],
+    "tools": ["figma", "ps", "trello"]
+}
