@@ -13,7 +13,7 @@ useSeoMeta({
 const route = useRoute();
 
 const projects = await queryContent<ProjectParsedContent>('projects')
-    .sort({ id: -1 })
+    .sort({ id: -1, $numeric: true })
     .only(['id', 'title', 'short_description', 'client', '_path'])
     .find();
 
@@ -63,12 +63,14 @@ onMounted(() => {
                         class="flex flex-col sm:flex-row gap-4 px-4 lg:px-5 py-3 rounded-3xl bg-primary-light/10 backdrop-blur-xl"
                     >
                         <a
-                            href="#"
+                            target="_blank"
+                            href="https://drive.google.com/file/d/1ryxN1h5QBfQFDa1eAPnhNGBaRykNYKva/view?usp=sharing"
                             class="py-2 px-2 lg:px-4 text-base font-medium rounded-xl hover:bg-primary-light/20 transition-all duration-500"
-                            >Creative CV</a
+                            >Curriculum Vitae</a
                         >
                         <a
-                            href="#"
+                            target="_blank"
+                            href="https://drive.google.com/file/d/1yPV9PeXDQkskQZP4_yEqc96p_cjA_8B8/view?usp=sharing"
                             class="py-2 px-2 lg:px-4 text-base font-medium rounded-xl hover:bg-primary-light/20 transition-all duration-500"
                             >Resume</a
                         >
