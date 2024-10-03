@@ -1,8 +1,8 @@
 {
     "id": 13,
     "title": "POS and CMS - Optik Melawai",
-    "description": "Optik Melawai needs a new system to replace the old system which has been used in operations both from the branch and HO side.",
-    "short_description": "CMS and POS used for operational processes that occur at Optik Melawai",
+    "description": "Optik Melawai needs a new system to replace the old system which has been used in operations both from the branch and HO side. I built this app together with my friend, another UIUX designer.",
+    "short_description": "CMS and POS used for operational processes that occur at Optik Melawai. ",
     "client": "Optik Melawai",
     "tags": ["Dashboard Management", "Vertilogic", "2023"],
     "goals": {

@@ -1,9 +1,9 @@
 {
     "id": 18,
-    "title": "[Study Case] Redesign Prakerja",
+    "title": "Redesign Prakerja",
     "description": "The Prakerja Card Program is a training scholarship program to improve work and entrepreneurship competencies. This program is intended not only for job seekers, but also for those who are already working or laborers who want to get improved skills or competencies, as well as workers/laborers who have been laid off, including micro and small business actors.",
     "short_description": "Redesign the Prakerja web app to be more minimalist and professionals",
-    "client": "Prakerja",
+    "client": "[Study Case] Prakerja",
     "tags": ["Mobile App", "2024"],
     "goals": {
         "description": "Re-design the registration process based on what think is better than the current one, simplify the registration process and make prioritization based on the step that is mandatory and optional. Here's some of the rules:",

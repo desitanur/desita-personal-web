@@ -43,19 +43,30 @@ onMounted(() => {
                     <p class="text-base md:text-xl">
                         Hi, nice to e-meet you! <br /><br />
 
-                        I'm Desita Nur Rosyidiana, people call me Desita. I've graduated from Telkom
-                        University Indonesia with a bachelor's degree in Information Systems on
+                        I am Desita Nur Rosyidiana, called Desita. I graduated from Telkom
+                        University Indonesia with a bachelor's degree in Information Systems in
                         2021.
                         <br /><br />
 
-                        I'm currently working as UIUX Designer and interested with all about UIUX
-                        design world. I'm in love with design and designing is also my favorite
-                        thing to do. I have experienced for more than 3 years with several projects
-                        that I work on.
+                        I am currently working as a UIUX Designer and interested in all things about
+                        UIUX design field. I am in love with design and designing is also my
+                        favorite thing. I've been experienced for more than 3 years with several
+                        projects that I have worked on.
                         <br /><br />
 
                         During my career, I have developed several skills, including UX Research, UX
                         Design, UI Design, Product Design, and also Product Manager.
+
+                        <br /><br />
+
+                        I can inform you that I'm actively seeking for new opportunities to be a
+                        UI/UX Designer in your team. For your information, I built this portfolio
+                        myself for your consideration. Feel free to contact me when you feel it is
+                        suitable.
+
+                        <br /><br />
+
+                        Please, enjoy my Portfolio 😊🥂
                     </p>
                 </div>
                 <div class="flex justify-start">
